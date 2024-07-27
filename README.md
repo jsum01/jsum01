@@ -9,6 +9,7 @@
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=54vaipxec30)](https://solved.ac/54vaipxec30)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsum01&layout=compact&theme=onedark)](https://github.com/jsum01/github-readme-stats)
 
 <div aligh="left">
 
@@ -59,6 +60,5 @@
 ---
 
 ![jsum01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsum01&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsum01&layout=compact&theme=onedark)](https://github.com/jsum01/github-readme-stats)
 ![jsum01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jsum01&theme=merko&days=30)
 </div>
