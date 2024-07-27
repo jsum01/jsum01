@@ -10,6 +10,9 @@
 ![jsum01's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsum01&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=54vaipxec30)](https://solved.ac/54vaipxec30)
 
+# Contact
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) : [!jsum01's insta](https://www.instagram.com/thumb__01/)
+
 # SKILLs
 ## Familiar Language !
 ### Front-End
@@ -55,5 +58,5 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-![jsum01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jsum01&theme=merko&day=10)
+![jsum01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jsum01&theme=merko&days=30)
 </div>
