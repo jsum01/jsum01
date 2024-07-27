@@ -1,9 +1,13 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7E03C&width=500&lines=Hi+guys%2C+Welcome+to+DUIT's+space;Look+around!)](https://git.io/typing-svg)
 
 **TODAY**
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF2F8F&title_bg=%23515843&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7E03C&width=500&lines=Hi+guys%2C+Welcome+to+DUIT's+space;Look+around!)](https://git.io/typing-svg)
+
+![giphy](https://github.com/user-attachments/assets/8efd343a-bc34-4e78-8e91-21ff11a0370c)
+
+
 
 ---
 [![코드트리|실력진단-54vaipxec30](https://banner.codetree.ai/v1/banner/54vaipxec30)](https://www.codetree.ai/profiles/54vaipxec30)
