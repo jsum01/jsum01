@@ -10,7 +10,6 @@
 ![jsum01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jsum01&theme=merko&days=30)
 
 # CONTACT
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) : 
-![jsum01's insta](https://www.instagram.com/thumb__01/)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=54vaipxec30)](https://solved.ac/54vaipxec30)-->
 </div>
