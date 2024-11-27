@@ -6,7 +6,7 @@
 
 ![giphy](https://github.com/user-attachments/assets/8efd343a-bc34-4e78-8e91-21ff11a0370c)
 
-https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Hi,%20Welcome%20to%20jsum01's%20World&fontColor=FFFFFF&fontAlign=50&animation=twinkling&desc=Ulsan%20College%20|%20Software%20Developer%20|%20DevSe&section=header&reversal=false&fontSize=50
+<img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Hi,%20Welcome%20to%20jsum01's%20World&fontColor=FFFFFF&fontAlign=50&animation=twinkling&desc=Ulsan%20College%20|%20Software%20Developer%20|%20DevSe&section=header&reversal=false&fontSize=50">
 
 ---
 
