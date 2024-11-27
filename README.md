@@ -6,10 +6,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23545101&title_bg=%23C9AF00&icon=&icon_color=%23E7E7E7&title=TODAY...&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsum01&layout=compact&theme=dark)](https://github.com/jsum01/github-readme-stats)
-
-![jsum01's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jsum01&theme=merko&days=30)
-
 # CONTACT
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=54vaipxec30)](https://solved.ac/54vaipxec30)-->
 </div>
