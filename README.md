@@ -13,7 +13,7 @@
   
 ### Back-End : ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Database : ![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-23323330.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-23323330?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### Database : ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsum01&layout=compact&theme=dark)](https://github.com/jsum01/github-readme-stats)
 
