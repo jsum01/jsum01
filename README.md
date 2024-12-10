@@ -33,7 +33,8 @@
 
 ---
 
-📬 **Contact Me**
+ℹ **Contact Me** ℹ
+
 📧 Email: [djadjawltjr@gmail.com](mailto:djadjawltjr@gmail.com)  
 🔗 Blog: [200scs's Tistory](https://jsum01.tistory.com)  
 🤵 Resume: [Um Ji-Seok's Notion](https://jsum01.notion.site/UmJiseok-2e3ef5bd955e4649b6421d93cc2f6b73)
