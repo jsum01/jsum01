@@ -14,35 +14,63 @@
   </tr>
 </table>
 
+---
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📈 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=jsum01&show_icons=true&theme=radical&hide=issues" alt="jsum01's GitHub Stats" height="180px"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsum01&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-📈 **GitHub Stats**
-  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsum01&show_icons=true&theme=radical&hide=issues" alt="jsum01's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsum01&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
-</p>
+<h3>📊 Current Focus</h3>
+<ul>
+  <li>🚌 <strong>Bus Tracking App</strong> with <strong>ReactNative, Spring Boot, MongoDB</strong></li>
+  <li>🚀 <strong>2025 CanSat Competition</strong></li>
+  <li>👨‍💼 Operating "DevSe" (a club for development and activation of security awareness)</li>
+  <li>🛠️ Clean && Secure Coding</li>
+</ul>
 
 ---
 
-📊 **Current Focus**  
-- 🚌 **Bus Tracking App** with **ReactNative, Spring Boot, MongoDB**
-- 🚀 **2025 CanSat Competition**
-- 👨‍💼 Operating "DevSe" (a club for development and activation of security awareness)
-- 🛠️ Clean && Secure Coding, 
-
----
-
-🌟 **Highlights**
-
-🔗 My Blog: [200scs's Tistory](https://jsum01.tistory.com)  
-📜 Resume: [Um Ji-Seok's Resume](https://jsum01.notion.site/UmJiseok-2e3ef5bd955e4649b6421d93cc2f6b73)
+<h3>🌟 Highlights</h3>
+<table>
+  <tr>
+    <td align="center">
+      🔗 <strong>My Blog</strong><br>
+      <a href="https://jsum01.tistory.com">200scs's Tistory</a>
+    </td>
+    <td align="center">
+      📜 <strong>Resume</strong><br>
+      <a href="https://jsum01.notion.site/UmJiseok-2e3ef5bd955e4649b6421d93cc2f6b73">Um Ji-Seok's Resume</a>
+    </td>
+  </tr>
+</table>
 
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsum01&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
 ---
 
-ℹ **Contact Me** ℹ
+<h3>ℹ Contact Me ℹ</h3>
+<table>
+  <tr>
+    <td align="center">
+      📧 <strong>Email</strong><br>
+      <a href="mailto:djadjawltjr@gmail.com">djadjawltjr@gmail.com</a>
+    </td>
+    <td align="center">
+      💼 <strong>LinkedIn</strong><br>
+      <a href="https://www.linkedin.com/in/jiseok-um-3b7a622a7/">JISEOK UM</a>
+    </td>
+  </tr>
+</table>
 
-📧 Email: [djadjawltjr@gmail.com](mailto:djadjawltjr@gmail.com)  
-💼 Linked-In: [JISEOK UM](https://www.linkedin.com/in/jiseok-um-3b7a622a7/)
+</div>
