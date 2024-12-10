@@ -45,7 +45,7 @@
 
 🌈 **Fun Extras**
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
+![What successful people have in common is that they are attractive people. People seem to judge and invest rationally, but they invest by looking at the attractiveness and value of the person who is pushing for it.](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 <!-- Optional: Add a personal motto or favorite quote here -->
 
 </div>
