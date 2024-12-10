@@ -16,32 +16,55 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <h3>📈 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=jsum01&show_icons=true&theme=radical&hide=issues" alt="jsum01's GitHub Stats" height="180px"/>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <h3>📊 Top Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsum01&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
     </td>
   </tr>
 </table>
 
-<h3>🌟 Highlights</h3>
+<h3>📊 Current Focus</h3>
 <ul>
-  <li>Baekjoon Tier: ![Baekjoon Tier](https://img.shields.io/badge/Baekjoon-Gold_4-yellow?style=flat-square&logo=baekjoon&logoColor=white)</li>
   <li>🚌 <strong>Bus Tracking App</strong> with <strong>ReactNative, Spring Boot, MongoDB</strong></li>
   <li>🚀 <strong>2025 CanSat Competition</strong></li>
+  <li>👨‍💼 Operating "DevSe" (a club for development and activation of security awareness)</li>
+  <li>🛠️ Clean && Secure Coding</li>
 </ul>
 
-<h3>ℹ Contact Me</h3>
-<ul>
-  <li>📧 Email: [djadjawltjr@gmail.com](mailto:djadjawltjr@gmail.com)</li>
-  <li>💼 LinkedIn: [JISEOK UM](https://www.linkedin.com/in/jiseok-um-3b7a622a7/)</li>
-</ul>
+<h3>🌟 Highlights</h3>
+<table>
+  <tr>
+    <td align="center">
+      🔗 <strong>My Blog</strong><br>
+      <a href="https://jsum01.tistory.com" style="color: #FF5733; font-weight: bold; text-decoration: none;">200scs's Tistory</a>
+    </td>
+    <td align="center">
+      📜 <strong>Resume</strong><br>
+      <a href="https://jsum01.notion.site/UmJiseok-2e3ef5bd955e4649b6421d93cc2f6b73" style="color: #33C4FF; font-weight: bold; text-decoration: none;">Um Ji-Seok's Resume</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsum01&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitor Count"/>
 </p>
+
+<h3>ℹ Contact Me ℹ</h3>
+<table>
+  <tr>
+    <td align="center">
+      📧 <strong>Email</strong><br>
+      <a href="mailto:djadjawltjr@gmail.com" style="color: #00CC99; font-weight: bold; text-decoration: none;">djadjawltjr@gmail.com</a>
+    </td>
+    <td align="center">
+      💼 <strong>LinkedIn</strong><br>
+      <a href="https://www.linkedin.com/in/jiseok-um-3b7a622a7/" style="color: #FF5733; font-weight: bold; text-decoration: none;">JISEOK UM</a>
+    </td>
+  </tr>
+</table>
 
 </div>
