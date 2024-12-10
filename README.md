@@ -1,17 +1,18 @@
 <div align="left">
 
-<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
-
-  <img src="https://github.com/user-attachments/assets/a8f3bad7-7820-4814-bf00-30d81ddd7e14" alt="Profile Image" width="200"/>
-
-  <div>
-    <h2>✨ About Me</h2>  
-    <p>👨‍💻 Software Developer | 🌐 Ulsan College | 🚀 President of DevSe</p>
-    <p>💙 Passionate about building secure, scalable systems and exploring open-source projects.</p>
-    <p>💜 I like to lead my organization in a positive direction.</p>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/a8f3bad7-7820-4814-bf00-30d81ddd7e14" alt="Profile Image" width="200"/>
+    </td>
+    <td>
+      <h2>✨ About Me</h2>  
+      <p>👨‍💻 Software Developer | 🌐 Ulsan College | 🚀 President of DevSe</p>
+      <p>💙 Passionate about building secure, scalable systems and exploring open-source projects.</p>
+      <p>💜 I like to lead my organization in a positive direction.</p>
+    </td>
+  </tr>
+</table>
 
 
 ---
