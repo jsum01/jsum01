@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-<p align="center">
+<p align="left">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsum01&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitor Count"/>
 </p>
 
@@ -58,11 +58,11 @@
   <tr>
     <td align="center">
       📧 <strong>Email</strong><br>
-      <a href="mailto:djadjawltjr@gmail.com" style="color: #00CC99; font-weight: bold; text-decoration: none;">djadjawltjr@gmail.com</a>
+      <a href="mailto:djadjawltjr@gmail.com">djadjawltjr@gmail.com</a>
     </td>
     <td align="center">
       💼 <strong>LinkedIn</strong><br>
-      <a href="https://www.linkedin.com/in/jiseok-um-3b7a622a7/" style="color: #FF5733; font-weight: bold; text-decoration: none;">JISEOK UM</a>
+      <a href="https://www.linkedin.com/in/jiseok-um-3b7a622a7"/>JISEOK UM</a>
     </td>
   </tr>
 </table>
