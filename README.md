@@ -1,6 +1,6 @@
 <div align="left">
 
-<div style="display: flex; flex-direction: row; align-items: center; gap: "20px";">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
 
   <img src="https://github.com/user-attachments/assets/a8f3bad7-7820-4814-bf00-30d81ddd7e14" alt="Profile Image" width="200"/>
 
