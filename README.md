@@ -2,7 +2,7 @@
 
 <!--![Header Image](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20you%20for%20coming%20to%20my%20world!&fontColor=FFFFFF&fontSize=50&animation=twinkling)
 -->
-![image](https://github.com/user-attachments/assets/a8f3bad7-7820-4814-bf00-30d81ddd7e14)
+<img src="https://github.com/user-attachments/assets/a8f3bad7-7820-4814-bf00-30d81ddd7e14" alt="Profile Image" width="600"/>
 
 ---
 
