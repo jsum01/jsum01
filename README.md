@@ -29,11 +29,9 @@
 
 🌟 **Highlights**
 
-
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsum01&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 🔗 My Blog: [200scs's Tistory](https://jsum01.tistory.com)  
 📜 Resume: [Um Ji-Seok's Resume](https://jsum01.notion.site/UmJiseok-2e3ef5bd955e4649b6421d93cc2f6b73)
-
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsum01&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 ---
 
 ℹ **Contact Me** ℹ
