@@ -34,6 +34,12 @@
   <li>🚀 <strong>2025 CanSat Competition</strong></li>
 </ul>
 
+<h3>ℹ Contact Me</h3>
+<ul>
+  <li>📧 Email: [djadjawltjr@gmail.com](mailto:djadjawltjr@gmail.com)</li>
+  <li>💼 LinkedIn: [JISEOK UM](https://www.linkedin.com/in/jiseok-um-3b7a622a7/)</li>
+</ul>
+
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsum01&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitor Count"/>
 </p>
