@@ -6,7 +6,8 @@
 
 ✨ **About Me**  
 👨‍💻 Software Developer | 🌐 Ulsan College | 🚀 President of DevSe  
-💡 Passionate about building secure, scalable systems and exploring open-source projects.  
+💙 Passionate about building secure, scalable systems and exploring open-source projects.  
+💜 I like to lead my organization in a positive direction.
 
 ---
 
