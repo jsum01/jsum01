@@ -30,7 +30,7 @@
 <h3>📊 Current Focus</h3>
 <ul>
   <li>🚌 <strong>Bus Tracking App</strong> with <strong>ReactNative, Spring Boot, MongoDB</strong></li>
-  <li>🚀 <strong>2025 CanSat Competition</strong></li>
+  <li>🚀 <strong>2025 CanSat Competition - Ground Control System</strong></li>
   <li>👨‍💼 Operating "DevSe" (a club for development and activation of security awareness)</li>
   <li>🛠️ Clean && Secure Coding</li>
 </ul>
