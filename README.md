@@ -33,6 +33,7 @@
   <li>🚀 <strong>2025 CanSat Competition - Ground Control System</strong></li>
   <li>👨‍💼 Operating "DevSe" (a club for development and activation of security awareness)</li>
   <li>🛠️ Clean && Secure Coding</li>
+  <li>🗂 Study in certification - SQL Professor</li>
 </ul>
 
 <h3>🌟 Highlights</h3>
