@@ -1,4 +1,6 @@
 <div align="left">
+  
+![](https://api.visitorbadge.io/api/VisitorHit?user=jsum01&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <table>
   <tr>
@@ -37,9 +39,7 @@
 </ul>
 
 <h3>🌟 Highlights</h3>
-<p align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsum01&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" alt="Visitor Count"/>
-</p>
+
 <table>
   <tr>
     <td align="center">
