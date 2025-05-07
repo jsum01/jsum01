@@ -48,7 +48,7 @@
     </td>
     <td align="center">
       📜 <strong>Resume</strong><br>
-      <a href="https://jsum01.notion.site/UmJiseok-2e3ef5bd955e4649b6421d93cc2f6b73" style="color: #33C4FF; font-weight: bold; text-decoration: none;">Um Ji-Seok's Resume</a>
+      <a href="https://devse.notion.site/UM-JISEOK-2e3ef5bd955e4649b6421d93cc2f6b73?pvs=73" style="color: #33C4FF; font-weight: bold; text-decoration: none;">Um Ji-Seok's Resume</a>
     </td>
   </tr>
 </table>
